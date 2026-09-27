@@ -20,4 +20,4 @@ lecture et partage avec attribution autorisés ; modification et usage
 commercial interdits. Code (simulateur, scripts) : **tous droits réservés**.
 Voir `LICENSE`, `LICENSE-CODE` et `LICENCES.md`.
 
-*Build v1.2.0-fdc8c80d — 2026-09-27. Analyse personnelle, ne constitue pas un conseil en investissement.*
+*Build v1.3.0-f07a0208 — 2026-09-27. Analyse personnelle, ne constitue pas un conseil en investissement.*
