@@ -1,0 +1,30 @@
+LICENCE DU CODE SOURCE (proprietaire)
+=====================================
+
+(C) 2026 Steeven DOSSOU-YOVO. Tous droits reserves.
+
+Ce fichier s'applique au CODE du projet : scripts et moteurs de calcul
+(repertoire `tools/`), code du simulateur, y compris sa version minifiee
+publiee (`simulateur.html`), et toute autre forme du logiciel.
+
+Sont autorises SANS autorisation ecrite prealable :
+
+- consulter le code et l'utiliser pour comprendre le travail presente ;
+- executer le simulateur publie tel quel, depuis son adresse officielle ou une
+  copie locale non modifiee, a titre personnel et non commercial.
+
+Sont INTERDITS sans autorisation ecrite prealable de l'auteur :
+
+- copier, modifier, adapter, traduire, decompiler ou reutiliser le code, en tout
+  ou partie, notamment pour creer un autre outil ou une oeuvre derivee ;
+- redistribuer, publier, vendre, heberger ou integrer le code dans un projet, un
+  site, un produit ou une formation, y compris en interne d'une entreprise ;
+- retirer, masquer ou alterer les mentions de copyright (watermark, en-tetes,
+  empreinte de build).
+
+Le contenu non-code (dossier, rapport, note, slides, graphiques, textes du
+site) est sous licence Creative Commons BY-NC-ND 4.0 : voir `LICENSE` et
+`LICENCES.md`. En cas de contradiction, les conditions du present fichier
+prevalent pour le code.
+
+Contact : steeven.dyo@gmail.com

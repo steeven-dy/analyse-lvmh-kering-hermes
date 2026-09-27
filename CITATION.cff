@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "Si vous citez ou partagez ce travail, citez-le sous cette forme (contenu : CC BY-NC-ND 4.0 ; code : tous droits réservés — voir LICENCES.md)."
+title: "Analyse comparative d'investissement — LVMH, Kering, Hermès (2020-2025 + S1 2026)"
+abstract: >-
+  Diagnostic fondamental, valorisation multi-modèles (DCF/FCFF, DDM, multiples,
+  patrimonial, mixte, EVA/MVA/TSR), analyse du risque (bêta, MEDAF, alpha de
+  Jensen, CV/Sharpe, décomposition du risque), allocation de portefeuille
+  (covariance, corrélation, gain de diversification, actif vs ETF) et
+  recommandation argumentée sur LVMH, Kering et Hermès. Méthodes du DSCG
+  (UE212, UE116, UE121), sources primaires, simulateur interactif.
+authors:
+  - family-names: "DOSSOU-YOVO"
+    given-names: "Steeven Joachim Tagnon"
+    alias: "steeven-dy"
+    email: "steeven.dyo@gmail.com"
+version: 1.0.0
+date-released: 2026-09-27
+license: CC-BY-NC-ND-4.0
+repository-code: "https://github.com/steeven-dy/analyse-lvmh-kering-hermes"
+url: "https://steeven-dy.github.io/analyse-lvmh-kering-hermes/"
+keywords:
+  - analyse financière
+  - valorisation
+  - DCF
+  - MEDAF
+  - portefeuille
+  - luxe
+  - LVMH
+  - Kering
+  - Hermès
+  - DSCG
+notes: >-
+  Le code (scripts et simulateur, y compris minifié) est en tous droits
+  réservés : consultation et exécution autorisées, réutilisation et
+  modification interdites (LICENSE-CODE). Le contenu est publié sous
+  CC BY-NC-ND 4.0 (LICENSE). Analyse personnelle — ne constitue pas un
+  conseil en investissement.
