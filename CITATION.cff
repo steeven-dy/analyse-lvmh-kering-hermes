@@ -6,8 +6,9 @@ abstract: >-
   patrimonial, mixte, EVA/MVA/TSR), analyse du risque (bêta, MEDAF, alpha de
   Jensen, CV/Sharpe, décomposition du risque), allocation de portefeuille
   (covariance, corrélation, gain de diversification, actif vs ETF) et
-  recommandation argumentée sur LVMH, Kering et Hermès. Méthodes du DSCG
-  (UE212, UE116, UE121), sources primaires, simulateur interactif.
+  recommandation argumentée sur LVMH, Kering et Hermès. Méthodes : DCF,
+  comparables, MEDAF/Jensen, portefeuille, EVA/MVA/TSR ; sources primaires,
+  simulateur interactif.
 authors:
   - family-names: "DOSSOU-YOVO"
     given-names: "Steeven Joachim Tagnon"
@@ -28,7 +29,6 @@ keywords:
   - LVMH
   - Kering
   - Hermès
-  - DSCG
 notes: >-
   Le code (scripts et simulateur, y compris minifié) est en tous droits
   réservés : consultation et exécution autorisées, réutilisation et
